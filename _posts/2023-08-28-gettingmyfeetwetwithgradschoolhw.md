@@ -3,9 +3,10 @@
 ---
 I solved some practice problems using Wolfram Mathematica. Wolfram Mathematica is a good software.
 
-
+```html
 <object data={{ % include HW0_TimThompson.pdf % }} width="1000" height="1000" type='application/pdf'>
 </object>
+```
 
 {% comment %}
 {% include HW0_TimThompson.html %}

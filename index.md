@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+I like to study engineering mechanics and computational science.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+On this blog you can find information about the recent coding I've done for courses, research or just for fun.

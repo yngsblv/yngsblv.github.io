@@ -9,3 +9,5 @@ I solved some practice problems using Wolfram Mathematica. Wolfram Mathematica i
 {% comment %}
 {% include HW0_TimThompson.html %}
 {% endcomment %}
+
+[get the PDF](/_inludes/HW0_TimThompson.pdf)

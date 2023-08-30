@@ -10,4 +10,4 @@ I solved some practice problems using Wolfram Mathematica. Wolfram Mathematica i
 {% include HW0_TimThompson.html %}
 {% endcomment %}
 
-[get the PDF](/_inludes/HW0_TimThompson.pdf)
+[get the PDF](/_includes/HW0_TimThompson.pdf)

@@ -3,4 +3,4 @@
 ---
 I solved some practice problems using Wolfram Mathematica. Wolfram Mathematica is a good software.
 
-[you can even export your scripts and output as a pdf](https://yngsblv.github.io/includes/HW0_TimThompson.pdf)
+[you can even export your scripts and output as a pdf](yngsblv.github.io/blob/main/_includes/HW0_TimThompson.pdf)

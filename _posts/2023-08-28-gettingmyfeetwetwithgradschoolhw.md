@@ -3,11 +3,4 @@
 ---
 I solved some practice problems using Wolfram Mathematica. Wolfram Mathematica is a good software.
 
-<object data={{ include HW0_TimThompson.pdf }} width="1000" height="1000" type='application/pdf'>
-</object>
-
-{% comment %}
-{% include HW0_TimThompson.html %}
-{% endcomment %}
-
-[get the PDF](/_includes/HW0_TimThompson.pdf)
+[you can even export your scripts and output as a pdf](/_includes/HW0_TimThompson.pdf)
